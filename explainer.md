@@ -47,3 +47,7 @@ Returns a promise that rejects:
  - When respondWith() is not called but the fetch event is cancelled.
  - When the promise provided to respondWith() is an invalid response.
  - When the promise provided to respondWith() is rejected.
+
+## Related Links
+ - https://w3c.github.io/ServiceWorker/#fetch-event-handled
+ - https://github.com/w3c/ServiceWorker/issues/1397
